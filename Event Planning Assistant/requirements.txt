@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain_openai
+langchain_community
+geocoder
+httpx
+python-dotenv
+requests
+sqlite3-binary
